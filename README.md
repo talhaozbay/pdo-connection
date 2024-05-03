@@ -1,2 +1,1 @@
-"# pdo-connection" 
-"# pdo-connection" 
+Establishing a PDO connection in the project using PHP.
